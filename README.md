@@ -1,7 +1,7 @@
 ## URL Uploader Bot 😉
 ---
 
-An Open Source Telegram Robot, that can upload as a file from any HTTP link.
+An Open Source Telegram bot, that can upload as a file from any HTTP link.
 
 #### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
