@@ -35,7 +35,7 @@ URL | filename | username | password"""
 --------
 Telegram ID: <code>{}</code>
 Plan name: InfinityJE User
-Expires on: 31/12/2020"""
+Expires on: No Expire 😉"""
     HELP_USER = """Hey... I am URL Uploader bot..
     
 1. Send url (Link|New Name with Extension).
@@ -51,7 +51,7 @@ Expires on: 31/12/2020"""
 --------
 Send /me to know current plan details
 
-👥 Support Group : @InfinityJE
+Support Group : @InfinityJE
 © @InfJE"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
